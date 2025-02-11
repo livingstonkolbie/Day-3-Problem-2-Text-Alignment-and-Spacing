@@ -1,0 +1,17 @@
+body {
+    line-height: 1.5;
+    /* letter-spacing: ; */
+}
+
+.title {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: left;
+}
+
+p {
+    text-align: justify;
+    letter-spacing: 0.5px;
+}
